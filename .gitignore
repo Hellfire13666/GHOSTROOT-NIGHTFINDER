@@ -1,0 +1,23 @@
+# NIGHTFINDER public release safeguards
+*.bak
+*.backup
+*.tar
+*.tar.gz
+*.sha256
+.env
+.env.*
+*.pem
+*.key
+id_rsa
+id_ed25519
+__pycache__/
+*.pyc
+.DS_Store
+GHOSTROOT-PRIVATE-BACKUPS/
+GHOSTROOT-PHANTOM-LABS/
+PRIVATE-BACKUPS/
+QA-TEST-DATA/
+NIGHTFINDER-ISOLATED-TEST-*/
+*-PRIVATE-*
+*.sqlite
+*.sqlite3
