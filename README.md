@@ -8,7 +8,9 @@
 
 **🌹 ROSE · 💜 VIOLET · 💙 COBALT · 🩵 CYAN · 💚 MINT · 🍋 LIME · 💛 GOLD · 🧡 ORANGE**
 
-**[👻 EXPLORE THE FULL-PAGE HUB SHOWCASE](docs/showcase.html)**
+**👻 [NIGHTFINDER // NEON SHOWCASE](https://hellfire13666.github.io/GHOSTROOT-NIGHTFINDER/)** · [View HTML source](docs/showcase.html)
+
+*Showcase link becomes live after GitHub Pages is enabled in repository Settings → Pages (Deploy from a branch → main → /(root)). It is a static preview, not the downloadable application.*
 
 **[`LOCAL-FIRST`](#-privacy-first) · [`MANUAL RESEARCH`](#-the-toolkit) · [`CSV--JSON`](#-the-toolkit) · [`RELEASE REVIEW`](#-release-status)**
 
