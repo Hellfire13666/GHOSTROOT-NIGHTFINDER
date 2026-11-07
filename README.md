@@ -10,7 +10,9 @@
 
 **👻 [NIGHTFINDER // NEON SHOWCASE](https://hellfire13666.github.io/GHOSTROOT-NIGHTFINDER/)** · [View HTML source](docs/showcase.html)
 
-*Showcase link becomes live after GitHub Pages is enabled in repository Settings → Pages (Deploy from a branch → main → /(root)). It is a static preview, not the downloadable application.*
+*The showcase and working browser app are both live. The showcase is a visual introduction; the application is a separate page.*
+
+**💚 [LAUNCH THE WORKING NIGHTFINDER](https://hellfire13666.github.io/GHOSTROOT-NIGHTFINDER/NIGHTFINDER-HOME.html)**
 
 **[`LOCAL-FIRST`](#-privacy-first) · [`MANUAL RESEARCH`](#-the-toolkit) · [`CSV--JSON`](#-the-toolkit) · [`RELEASE REVIEW`](#-release-status)**
 
@@ -43,19 +45,26 @@ This repository's published text contains **no private research records, login c
 
 ## 🚦 Release status
 
-**NIGHTFINDER v1.0.0 · PUBLIC HTML PREVIEW / FINAL REVIEW**
+**NIGHTFINDER v1.0.0 · PUBLIC BROWSER APP AVAILABLE**
 
-The public-facing project page, artwork, and browser application HTML are available now. **The original approved artwork is now included in this repository. The browser-based NIGHTFINDER application is now available at [Launch NIGHTFINDER](https://hellfire13666.github.io/GHOSTROOT-NIGHTFINDER/NIGHTFINDER-HOME.html).** A locally prepared RC2 package awaits final review before publication.
+The live GitHub Pages showcase, approved original artwork, and functional browser application are published. The hosted application was tested with a synthetic QA record; no private research data was used.
 
 | Check | Status |
 | :--- | :--- |
-| CSV import | ✅ User-tested |
-| Browser-local save | ✅ User-tested |
-| Restore after refresh | ✅ User-tested |
-| CSV / JSON export | ✅ User-tested |
-| Clean workspace after refresh | ⏳ Final confirmation |
-| Unexpected network requests | ⏳ Final confirmation |
-| Public app & visual assets | ⏳ Not yet published |
+| Public showcase and app open in Firefox | ✅ User-confirmed |
+| Synthetic JSON restore/import | ✅ User-confirmed |
+| Browser-local save | ✅ User-confirmed |
+| Restore after refresh | ✅ User-confirmed |
+| Clear, save empty workspace, refresh | ✅ User-confirmed |
+| Filtered JSON export (empty workspace) | ✅ User-confirmed |
+| CSV / JSON exports in local build | ✅ User-confirmed |
+| Automatic network-request API calls in HTML | ✅ None found in static review |
+| Full browser Network-panel audit | ⚠️ Not independently performed |
+| Standalone downloadable release archive | ⏳ Not published |
+
+**The browser application is available now.** A separate downloadable GitHub Release archive has not been published yet, and no full runtime security certification is claimed. 
+
+See [RELEASE-NOTES-v1.0.0.md](RELEASE-NOTES-v1.0.0.md) for release notes and test coverage.
 
 ## 🚀 Launching after the release
 
