@@ -45,7 +45,7 @@ This repository's published text contains **no private research records, login c
 
 **NIGHTFINDER v1.0.0 · FINAL REVIEW**
 
-The public-facing project page and documentation are available now. **The executable HTML application and original artwork have not yet been uploaded to this repository.** A locally prepared RC2 package awaits final review before publication.
+The public-facing project page and documentation are available now. **The original approved artwork is now included in this repository. The executable HTML application has not yet been uploaded.** A locally prepared RC2 package awaits final review before publication.
 
 | Check | Status |
 | :--- | :--- |
