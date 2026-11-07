@@ -43,9 +43,9 @@ This repository's published text contains **no private research records, login c
 
 ## 🚦 Release status
 
-**NIGHTFINDER v1.0.0 · FINAL REVIEW**
+**NIGHTFINDER v1.0.0 · PUBLIC HTML PREVIEW / FINAL REVIEW**
 
-The public-facing project page and documentation are available now. **The original approved artwork is now included in this repository. The executable HTML application has not yet been uploaded.** A locally prepared RC2 package awaits final review before publication.
+The public-facing project page, artwork, and browser application HTML are available now. **The original approved artwork is now included in this repository. The browser-based NIGHTFINDER application is now available at [Launch NIGHTFINDER](https://hellfire13666.github.io/GHOSTROOT-NIGHTFINDER/NIGHTFINDER-HOME.html).** A locally prepared RC2 package awaits final review before publication.
 
 | Check | Status |
 | :--- | :--- |
@@ -59,7 +59,7 @@ The public-facing project page and documentation are available now. **The origin
 
 ## 🚀 Launching after the release
 
-When an approved release is published, extract its archive and open `NIGHTFINDER-HOME.html` in a modern browser. Keep its companion `assets/` directory and original art with the HTML file.
+Open the [NIGHTFINDER browser application](https://hellfire13666.github.io/GHOSTROOT-NIGHTFINDER/NIGHTFINDER-HOME.html) or download `NIGHTFINDER-HOME.html` with `nightfinder-approved-art.png` into the same folder to run it locally. The separate companion icon and packaged release archive are not yet published.
 
 **No command-line installation or hosted account is needed for the browser workspace.** External provider links require an appropriate browser and connection.
 
