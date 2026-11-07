@@ -8,6 +8,8 @@
 
 **🌹 ROSE · 💜 VIOLET · 💙 COBALT · 🩵 CYAN · 💚 MINT · 🍋 LIME · 💛 GOLD · 🧡 ORANGE**
 
+**[👻 EXPLORE THE FULL-PAGE HUB SHOWCASE](docs/showcase.html)**
+
 **[`LOCAL-FIRST`](#-privacy-first) · [`MANUAL RESEARCH`](#-the-toolkit) · [`CSV--JSON`](#-the-toolkit) · [`RELEASE REVIEW`](#-release-status)**
 
 </div>
