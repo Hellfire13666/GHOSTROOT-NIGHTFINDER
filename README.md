@@ -43,7 +43,7 @@ The showcase and browser application are available. NIGHTFINDER is a manual, loc
 
 A separate downloadable GitHub Release archive has not yet been published.
 
-[Security and responsible reporting](SECURITY.md)
+Privacy and safe-use guidance is included above.
 
 ## Get started
 
